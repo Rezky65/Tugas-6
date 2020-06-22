@@ -1,0 +1,9 @@
+if N<0 then
+
+return 1
+
+else 
+
+n faktorial * fak (N - 1)
+
+return (faktorial)
